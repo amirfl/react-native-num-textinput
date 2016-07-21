@@ -2,7 +2,7 @@
 A wrapper component for TextInput that accepts only numerical values
 
 ## Usage
-Donwload or clone the project.
+Donwload or clone the project, or just the component file at [lib/NumericalTextInput.js](https://github.com/amirfl/react-native-num-textinput/blob/master/lib/NumericalTextInput.js).
 
 ### Inside your parent component:
 

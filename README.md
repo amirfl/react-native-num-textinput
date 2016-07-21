@@ -1,2 +1,2 @@
 # react-native-num-textinput
-A wrappercomponent for TextInput that accepts only numerical values
+A wrapper component for TextInput that accepts only numerical values

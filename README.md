@@ -17,3 +17,7 @@ Donwload or clone the project, or just the component file at [lib/NumericalTextI
             onChangeText={(text)=> this.setState({myText:text})}
             value={this.state.myText.toString()}
             />```
+
+
+### TODO
+* Create and publish npm package

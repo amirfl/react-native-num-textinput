@@ -1,0 +1,26 @@
+{
+  "name": "react-native-num-textinput",
+  "version": "1.0.0",
+  "description": "A wrapper component for TextInput that accepts only numerical values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirfl/react-native-num-textinput.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react",
+    "textinput",
+    "numerical"
+  ],
+  "author": "Amir Fleminger <amirfl@yahoo.com> (http://flemingermedia.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amirfl/react-native-num-textinput/issues"
+  },
+  "homepage": "https://github.com/amirfl/react-native-num-textinput#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "react-native-num-textinput",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper component for TextInput that accepts only numerical values",
   "main": "index.js",
   "scripts": {

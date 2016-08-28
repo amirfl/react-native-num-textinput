@@ -8,16 +8,12 @@ Donwload or clone the project, or just the component file at [lib/NumericalTextI
 
 * import the component
 
-```import NumericalTextInput from '../lib/NumericalTextInput' // or whatever directory you placed it under```
+```import NumTextInput from 'react-native-num-textinput'```
 
 * Use it like a regular TextInput. Inside your render() method:
 
 
-```<NumericalTextInput style={styles.textInputStyle} 
+```<NumTextInput style={styles.textInputStyle} 
             onChangeText={(text)=> this.setState({myText:text})}
             value={this.state.myText.toString()}
             />```
-
-
-### TODO
-* Create and publish npm package

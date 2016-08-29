@@ -18,3 +18,6 @@ Inside your render() method:
             onChangeText={(text)=> this.setState({myText:text})}
             value={this.state.myText.toString()}
             />```
+
+## License
+[MIT](https://opensource.org/licenses/MIT) license.

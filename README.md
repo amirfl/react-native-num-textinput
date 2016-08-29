@@ -9,8 +9,9 @@ A wrapper component for TextInput that accepts only numerical values
 ```import NumTextInput from 'react-native-num-textinput'```
 
 * Use it like a regular TextInput.
+
 ### Example
-inside your render() method:
+Inside your render() method:
 
 
 ```<NumTextInput style={styles.textInputStyle}

@@ -14,10 +14,12 @@ A wrapper component for TextInput that accepts only numerical values
 Inside your render() method:
 
 
-```<NumTextInput style={styles.textInputStyle}
+```js
+<NumTextInput style={styles.textInputStyle}
             onChangeText={(text)=> this.setState({myText:text})}
             value={this.state.myText.toString()}
-            />```
+            />
+```
 
 ## License
 [MIT](https://opensource.org/licenses/MIT) license.
